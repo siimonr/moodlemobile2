@@ -2,7 +2,7 @@
 <widget id="com.moodle.moodlemobile" version="3.1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>Campus Virtual UNIR</name>
   <description>La aplicación oficial del campus virtual del Instituto Tecnológico UNIR - Moodle Mobile</description>
-  <author href="http://moodle.com" email="juan@moodle.com">Juan Leyva</author>
+  <author href="http://www.unir.edu.ve/" email="Alfredo.reyes@unir.edu.ve">Alfredo Reyes</author>
   <content src="index.html"/>
   <access origin="*"/>
 
